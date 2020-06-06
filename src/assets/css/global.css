@@ -1,0 +1,7 @@
+/* global css */
+/*需要在main.js中导入global.css才能生效*/
+html,body, #app{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
